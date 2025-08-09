@@ -5,6 +5,7 @@
 * **Ultrasonic Sensor (HC-SR04)with arduino uno**
   
  ultrasonic sensor → arduino
+ 
  	     * VCC → 3V3
  	     * GND → GND
  	     * Trig → Pin 9
