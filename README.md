@@ -3,6 +3,7 @@
 **How to connect hardware:**
 
 * **Ultrasonic Sensor (HC-SR04)with arduino uno**
+  
  ultrasonic sensor → arduino
  	     * VCC → 3V3
  	     * GND → GND
@@ -10,6 +11,7 @@
   	     * Echo → Pin 10
 
 * **Servo Motor with arduino uno**
+  
      Servo → arduino uno
   * Signal → Pin 5
   * VCC → 5V (or external power if high torque)
